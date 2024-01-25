@@ -1,5 +1,7 @@
 <h1 align="center">🧗‍♀️ Davekeyz 11</h1>
-**`Digital Craftsman (Developer/Keyboardist/Artist)
+
+**`Digital Craftsman (Developer/Keyboardist/Artist)`**
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
