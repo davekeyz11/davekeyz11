@@ -5,6 +5,7 @@ I'm an exceptional developer who embarked on my coding journey at the age of 6. 
 
 ## About Me
 - 📧 E-mail: [tech4kidsdave@gmail.com]
+- [![Location](https://img.shields.io/badge/Location-Flat%209%2C%2052%20Mulgrave%20Road%2C%20Sutton%2C%20UK-blue)](location.md)
 
 
 ## Languages and Tools
