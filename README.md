@@ -15,7 +15,6 @@ I'm an exceptional developer who embarked on my coding journey at the age of 6. 
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/github.png" width="40" height="40"/>
 </p>
